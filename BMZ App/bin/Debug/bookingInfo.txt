@@ -1,0 +1,6 @@
+username,date,adult,child,senior,totalCost
+
+Guest,05/03/2025,1,1,0,29.9
+arr,05/03/2025,2,1,1,64.8
+Guest,06/03/2025,3,3,0,89.7
+JSmith293,09/03/2025,1,0,0,19.95

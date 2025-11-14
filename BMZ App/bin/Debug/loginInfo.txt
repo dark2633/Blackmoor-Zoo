@@ -1,0 +1,6 @@
+Name,Email,Username,Password,OptIn
+
+1,1,1,1,OptOut
+Arran,arr@mail.com,arr,123,OptOut
+John Doe,johndoe@example.com,johndoe123,TestPassword123!,OptIn
+John,johnsmith98@example.com,JSmith293,sOD/v@Mb|DHq,OptIn

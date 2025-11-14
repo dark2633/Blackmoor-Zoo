@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BMZ_App</RootNamespace>
+    <AssemblyName>BMZ App</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAnimals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnimals.Designer.cs">
+      <DependentUpon>FrmAnimals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBooking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBooking.Designer.cs">
+      <DependentUpon>FrmBooking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEvents.Designer.cs">
+      <DependentUpon>FrmEvents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFacilities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFacilities.Designer.cs">
+      <DependentUpon>FrmFacilities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHome.Designer.cs">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSignup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSignup.Designer.cs">
+      <DependentUpon>FrmSignup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Globals.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAnimals.resx">
+      <DependentUpon>FrmAnimals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBooking.resx">
+      <DependentUpon>FrmBooking.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEvents.resx">
+      <DependentUpon>FrmEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFacilities.resx">
+      <DependentUpon>FrmFacilities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHome.resx">
+      <DependentUpon>FrmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSignup.resx">
+      <DependentUpon>FrmSignup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BMZ Symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Navigation Bar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hero Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sign Up button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Book Now button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Elephant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Lion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fun Facts Panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CTA Panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Tiger - Side.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Peacock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Tigers - Middle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Giraffes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Elephants.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Red Pandas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Gorillas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Zebras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Lions.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Leopards.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Lake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image Meerkat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Café.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Picnic Areas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Gift Shop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Elephant %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Tiger %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Night Safari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Keeper for Day.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Wildlife Photography.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image - Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Action Panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Input Field.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password Show Hide.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password Show Hide1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Submit Button.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

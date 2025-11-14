@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|c:\\users\\rubik\\onedrive - kirklees college\\software dev\\project 3\\3 - practical skills\\bmz app\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmabout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmfacilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\frmanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9FCA4311-2FD8-47E5-A129-C1E6CAD42071}|BMZ App.csproj|solutionrelative:frmanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmAbout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmAbout.cs",
+              "RelativeDocumentMoniker": "FrmAbout.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmAbout.cs [Design]",
+              "RelativeToolTip": "FrmAbout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAnimals.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmAnimals.cs",
+              "RelativeDocumentMoniker": "FrmAnimals.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmAnimals.cs",
+              "RelativeToolTip": "FrmAnimals.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwFkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAnimals.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmAnimals.cs",
+              "RelativeDocumentMoniker": "FrmAnimals.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmAnimals.cs [Design]",
+              "RelativeToolTip": "FrmAnimals.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.547Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmFacilities.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmFacilities.cs",
+              "RelativeDocumentMoniker": "FrmFacilities.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmFacilities.cs",
+              "RelativeToolTip": "FrmFacilities.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAD4v1gAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-04T18:54:10.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmFacilities.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmFacilities.cs",
+              "RelativeDocumentMoniker": "FrmFacilities.cs",
+              "ToolTip": "C:\\Users\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmFacilities.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmFacilities.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-04T18:54:10.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBooking.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmBooking.cs",
+              "RelativeDocumentMoniker": "FrmBooking.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmBooking.cs [Design]",
+              "RelativeToolTip": "FrmBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:11.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAbout.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmAbout.cs",
+              "RelativeDocumentMoniker": "FrmAbout.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmAbout.cs",
+              "RelativeToolTip": "FrmAbout.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAtwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmHome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FrmHome.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmHome.cs [Design]",
+              "RelativeToolTip": "FrmHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmHome.cs",
+              "RelativeDocumentMoniker": "FrmHome.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmHome.cs",
+              "RelativeToolTip": "FrmHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\Globals.cs",
+              "RelativeDocumentMoniker": "Globals.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\Globals.cs",
+              "RelativeToolTip": "Globals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:19:24.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmEvents.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmEvents.cs",
+              "RelativeDocumentMoniker": "FrmEvents.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmEvents.cs",
+              "RelativeToolTip": "FrmEvents.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAD4v1kAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmEvents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmEvents.cs",
+              "RelativeDocumentMoniker": "FrmEvents.cs",
+              "ToolTip": "C:\\Users\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmEvents.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmLogin.cs",
+              "RelativeToolTip": "FrmLogin.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmSignup.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmSignup.cs",
+              "RelativeDocumentMoniker": "FrmSignup.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmSignup.cs",
+              "RelativeToolTip": "FrmSignup.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAYwLIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmSignup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmSignup.cs",
+              "RelativeDocumentMoniker": "FrmSignup.cs",
+              "ToolTip": "C:\\Users\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmSignup.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\2400652\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmSignup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmBooking.cs",
+              "DocumentMoniker": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmBooking.cs",
+              "RelativeDocumentMoniker": "FrmBooking.cs",
+              "ToolTip": "C:\\Users\\rubik\\OneDrive - Kirklees College\\Software Dev\\PROJECT 3\\3 - Practical Skills\\BMZ App\\FrmBooking.cs",
+              "RelativeToolTip": "FrmBooking.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvysAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:54:10.552Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
